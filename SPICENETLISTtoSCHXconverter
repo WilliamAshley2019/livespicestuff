@@ -1,3 +1,7 @@
+Note there is some similar projects such as 
+https://github.com/f18m/netlist-viewer  that may be helpful in providing some of the basis to this.
+
+
 what is the difference between ltspice asc and livespice schx
 Copilot
 LTspice and LiveSPICE are both simulation software used for electronic circuit design, but they differ in file formats and capabilities:
